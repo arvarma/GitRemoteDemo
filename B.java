@@ -1,7 +1,7 @@
-public class Test {
+public class B {
 
-public static void main(Strings args[]) {
+public static void main(String args[]) {
 
-system.out.println.in("Hello World");
+system.out.println("Hello World");
 }
 }
